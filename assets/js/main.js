@@ -137,9 +137,7 @@ class TextScramble {
     // 'no quien se engaña',
     // 'creyendo saber',
     // 'e ignora incluso',
-    // 'su propia ignorancia.',
-    // 'el hombre.',
-    // 'y transitar por él',
+    // 'su propia ignorancia.'
   ]
   
   const el = document.querySelector('.lab__text')

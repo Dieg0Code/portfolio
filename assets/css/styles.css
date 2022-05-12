@@ -179,7 +179,6 @@ body.dark-theme{
     border-radius: 5%;
     margin: .5rem;
 } */
-
 @keyframes float {
 	0% {
 		box-shadow: 0 5px 15px 0px hsla(var(--hue), var(--sat), var(--lig), .2);
